@@ -18,7 +18,7 @@
                   I installed DOSBox on my Linux VM, mounted the DOS program to it, and ran it, which printed out the flag shown in
                   the screenshot below. I then submitted the flag.
 - **Screenshot:**
-<img width="525" height="166" alt="Screenshot_2025-11-07_174648" src="https://github.com/user-attachments/assets/9123f0d2-3328-443f-a311-c76820bc8641" />
+                  <img width="525" height="166" alt="Screenshot_2025-11-07_174648" src="https://github.com/user-attachments/assets/9123f0d2-3328-443f-a311-c76820bc8641" />
 
 
 ### 2. OS Simulation Challenge (COMPLETED)
@@ -50,7 +50,7 @@
                   combined them, and submitted them on the CTF website to complete the challenge. 
                        
 - **Screenshot:**
-<img width="846" height="725" alt="Screenshot 2025-12-02 232134" src="https://github.com/user-attachments/assets/a80c6637-860a-44a0-9dee-99932bd2df26" />
+                  <img width="846" height="725" alt="Screenshot 2025-12-02 232134" src="https://github.com/user-attachments/assets/a80c6637-860a-44a0-9dee-99932bd2df26" />
                   <img width="701" height="334" alt="Screenshot_2025-11-07_221649" src="https://github.com/user-attachments/assets/f83f5398-4244-4dbf-84f8-6fe736b4861a" />
 
 
