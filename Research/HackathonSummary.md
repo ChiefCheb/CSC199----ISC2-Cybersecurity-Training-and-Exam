@@ -36,11 +36,11 @@
                   very strict about their authentications), I tried to set up the instance over and over, but failed each
                   time. With that attempt also exhausted, I looked online for a tip on running programs on a remote MAC
                   device. I learned that Git workflows can actually be used to simulate different OSs, so I created a repo
-                  (I should've used this one but it slipped my mind at the time.), put the program there, and learned how
+                  (I should've used this one but it slipped my mind at the time), put the program there, and learned how
                   to write a git workflow. After many attempts, I finally succeeded in running the program, getting the
                   following result: "Cosmonauts run their programs everywhere and at once.\nExcept here...". Needless to
                   say, this isn't what I was looking for, so I checked in with my partner, and we agreed that the next
-                  OS to try was FreeBSD. So, thankfully FreeBSD is free, so I downloaded an ISO and took another while to
+                  OS to try was FreeBSD. Thankfully FreeBSD is free, so I downloaded an ISO and took another while to
                   setup the VM (setup was manual and I had to configure file system partitions, network settings, etc.).
                   Once set up, I tried to transfer the program to the VM from my host using a plethora of options (ssh, shared
                   folders, etc.), but all of them failed. Finally, I decided to turn the program into an ISO using a
