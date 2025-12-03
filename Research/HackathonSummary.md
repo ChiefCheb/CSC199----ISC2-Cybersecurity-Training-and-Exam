@@ -44,7 +44,7 @@
                   setup the VM (setup was manual and I had to configure file system partitions, network settings, etc.).
                   Once set up, I tried to transfer the program to the VM from my host using a plethora of options (ssh, shared
                   folders, etc.), but all of them failed. Finally, I decided to turn the program into an ISO using a
-                  python script, then attached it to the VM before launching it. Once launched and loggin in as root, I
+                  python script, then attached it to the VM before launching it. Once launched and logged in as root, I
                   mounted the ISO, copied the program into root, changed its permission, and ran it, and finally got the
                   last part of the flag: "Cosmonauts run their programs everywhere and all at once.\nLike on FreeBSD!", and
                   "kn0w5_n0_b0und5}". After all that, I went back and collected the frangments of the flag all together,
@@ -68,7 +68,7 @@
                     jump with the address of the print flag function. For some time, I tried to do this manually to see if I can
                     overflow the buffer to make the program break and output anything other than the intended output. After a few
                     tries, it became clear that wasn't going to happen, so I decided to try to do this programatically with a
-                    python script. Unfortunately, soon after I wrote a script that finally yileded any sort of output, the
+                    python script. Unfortunately, soon after I wrote a script that finally yielded any sort of output, the
                     hackathon ended, and I wasn't able to submit the flag for this challenge.
   
 - **Screenshot:** Running my python script and it crashing:
@@ -76,8 +76,19 @@
 
 
 ## Tools & Workflows Used
-- 
+- **VirtualBox** – created multiple VMs (Linux, FreeBSD) for isolated challenge environments
+- **DOSBox** – used to run legacy DOS executables from decoded challenges
+- **uudecode / coreutils** – decoded uuencoded attachments
+- **GitHub Actions** – attempted OS-simulated execution via workflow runners
+- **Python scripting** – automated payload generation for PWN experimentation
+- **SSH / ISO mounting** – attempted multiple transfer methods for binaries between host and VM
+- **Command-line debugging tools** – explored memory output, function addresses, and program behavior
+- **Amazon EC2 (attempted)** – attempted macOS instance setup for multi-OS testing
 
 ## What I Learned
-- 
-
+- I learned how to set up and manage multiple virtual machines (Linux, FreeBSD), including how to configure file systems, networking, and file transfers.
+- I gained experience running executable formats (DOS COM files) and decoding encoded files such as uuencode.
+- I learned how challenge binaries behave differently on various operating systems, and how GitHub Actions can be used as an alternative environment.
+- I gained introductory experience in PWN concepts such as buffer overflows, memory inspection, function address discovery, and writing automated payload scripts.
+- I improved my troubleshooting and persistence skills — especially when dealing with VM setup failures, OS limitations, and pipeline errors.
+- Most importantly, I learned how real workflows operate: break tasks into small experiments, explore unfamiliar tools quickly, and gained hands-on experience in cybersecurity concepts.
