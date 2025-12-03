@@ -17,6 +17,7 @@
                   "email.txt", and ran "uudecode email.txt". This gave me a DOS program called "FLGPRNTR.COM". In order to run it,
                   I installed DOSBox on my Linux VM, mounted the DOS program to it, and ran it, which printed out the flag shown in
                   the screenshot below. I then submitted the flag.
+  
 - **Screenshot:** Running the DOS on DOSBox:
                   <img width="525" height="166" alt="Screenshot_2025-11-07_174648" src="https://github.com/user-attachments/assets/9123f0d2-3328-443f-a311-c76820bc8641" />
 
@@ -68,7 +69,8 @@
                     overflow the buffer to make the program break and output anything other than the intended output. After a few
                     tries, it became clear that wasn't going to happen, so I decided to try to do this programatically with a
                     python script. Unfortunately, soon after I wrote a script that finally yileded any sort of output, the
-                    hackathon ended, and I wasn't able to submit the flag for this challenge. 
+                    hackathon ended, and I wasn't able to submit the flag for this challenge.
+  
 - **Screenshot:** Running my python script and it crashing:
                   <img width="701" height="395" alt="Screenshot 2025-11-08 165302" src="https://github.com/user-attachments/assets/9b7a9e60-d0d9-4e1b-bbf5-e44727714b17" />
 
