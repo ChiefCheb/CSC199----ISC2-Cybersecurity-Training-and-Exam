@@ -18,7 +18,7 @@
                   I installed DOSBox on my Linux VM, mounted the DOS program to it, and ran it, which printed out the flag shown in
                   the screenshot below. I then submitted the flag.
 - **Screenshot:** Running the DOS on DOSBox:
-                 <img width="525" height="166" alt="Screenshot_2025-11-07_174648" src="https://github.com/user-attachments/assets/9123f0d2-3328-443f-a311-c76820bc8641" />
+                  <img width="525" height="166" alt="Screenshot_2025-11-07_174648" src="https://github.com/user-attachments/assets/9123f0d2-3328-443f-a311-c76820bc8641" />
 
 
 ### 2. OS Simulation Challenge (COMPLETED)
