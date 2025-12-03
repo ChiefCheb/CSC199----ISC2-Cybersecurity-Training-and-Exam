@@ -76,14 +76,14 @@
 
 
 ## Tools & Workflows Used
-- **VirtualBox** – created multiple VMs (Linux, FreeBSD) for isolated challenge environments
-- **DOSBox** – used to run legacy DOS executables from decoded challenges
-- **uudecode / coreutils** – decoded uuencoded attachments
-- **GitHub Actions** – attempted OS-simulated execution via workflow runners
-- **Python scripting** – automated payload generation for PWN experimentation
-- **SSH / ISO mounting** – attempted multiple transfer methods for binaries between host and VM
-- **Command-line debugging tools** – explored memory output, function addresses, and program behavior
-- **Amazon EC2 (attempted)** – attempted macOS instance setup for multi-OS testing
+- **VirtualBox**: created multiple VMs (Linux, FreeBSD) for isolated challenge environments
+- **DOSBox**: used to run legacy DOS executables from decoded challenges
+- **uudecode / coreutils**: decoded uuencoded attachments
+- **GitHub Actions**: attempted OS-simulated execution via workflow runners
+- **Python scripting**: automated payload generation for PWN experimentation
+- **SSH / ISO mounting**: attempted multiple transfer methods for binaries between host and VM
+- **Command-line debugging tools**: explored memory output, function addresses, and program behavior
+- **Amazon EC2 (attempted)**: attempted macOS instance setup for multi-OS testing
 
 ## What I Learned
 - I learned how to set up and manage multiple virtual machines (Linux, FreeBSD), including how to configure file systems, networking, and file transfers.
