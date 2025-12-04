@@ -16,13 +16,13 @@ expereince in cybersecurity fundamentals.
 ## Project Components
 
 ### **1. ISC2 CC Online Course**
-- Summary: link summary
+- Summary: [ISC2 Online Course Summary](https://github.com/ChiefCheb/CSC199----ISC2-Cybersecurity-Training-and-Exam/blob/main/Research/CourseSummary.md)
 
 ### **2. BuckeyeCTF Hackathon**
-- Summary: link summary
+- Summary: [BuckeyeCTF Hackathon Summary](https://github.com/ChiefCheb/CSC199----ISC2-Cybersecurity-Training-and-Exam/blob/main/Research/HackathonSummary.md)
 
 ### **3. Weekly Progress Log**
-[Project Update Link](https://docs.google.com/document/d/1VO4feVCMn4zUrWONcKR7Nya_eI8PAsu3vzG0sd1-MiI/edit?tab=t.0)
+- Link: [Project Update Link](https://docs.google.com/document/d/1VO4feVCMn4zUrWONcKR7Nya_eI8PAsu3vzG0sd1-MiI/edit?tab=t.0)
 
 ## Tools and Technologies Used
 - **VirtualBox** (Linux and FreeBSD)
