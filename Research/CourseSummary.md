@@ -1,7 +1,10 @@
 # ISC2 CC Course Summary
 
 I completed the ISC2 "Certified in Cybersecurity" online course as part of my CSC199 project.  
-Here is a short summary of each domain:
+The course covered five domains of entry-level cybersecurity and prepared me for the CC 
+certification exam.
+
+Summary of each domain:
 
 **Domain 1:** Security Principles  
 - CIA Triad, risk management, MFA, governance
